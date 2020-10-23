@@ -1,0 +1,8 @@
+name:
+  experimental_dna_binding_sites
+channels:
+  - defaults
+dependencies:
+  - python>=3.7
+  - jupyterlab
+  - pandas
