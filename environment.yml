@@ -1,5 +1,4 @@
-name:
-  - experimental_dna_binding_sites
+name: experimental_dna_binding_sites
 channels:
   - defaults
 dependencies:
