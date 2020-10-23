@@ -2,9 +2,11 @@
 
 ## Getting started
 
-This notebook can be run in your browser by clicking on the Binder button below: 
+This notebook can simply be run in your browser by clicking on the Binder button below:
 
-Alternatively you can run it on you local machine by installing python (and a few other dependencies), see the [Requirements](#requirements) section below for details.
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ehatton/experimental_dna_binding_sites/main?filepath=experimental_dna_binding_sites.ipynb)
+
+Alternatively you can download the file and run it on your local machine by installing python (and a few other dependencies), see the [Requirements](#requirements) section below for details.
 
 ## Requirements
 
